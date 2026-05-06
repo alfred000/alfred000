@@ -32,7 +32,7 @@ En reconversion vers l’informatique, je me prépare activement à devenir **an
 Je développe une approche complète du métier d’analyste-développeur à travers un projet en deux volets :
 
 ### 🧠 Analyse métier (Business Analyst)
-📁 PulsePath – BA Case Study  
+📁 🔗 [PulsePath – BA Case Study](https://github.com/alfred000/PulsePath-Engine-BA-Case-Study) 
 - Identification des besoins utilisateurs  
 - Modélisation des fonctionnalités  
 - Structuration des exigences  
