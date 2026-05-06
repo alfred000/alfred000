@@ -50,7 +50,7 @@ Je développe une approche complète du métier d’analyste-développeur à tra
 ## 🛠️ Compétences
 
 - Langages : C#, Java, JavaScript, TypeScript  
-- Bases de données : SQL (en apprentissage)  
+- Bases de données : SQL 
 - Concepts :
   - POO  
   - Algorithmes  
