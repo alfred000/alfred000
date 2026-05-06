@@ -1,61 +1,94 @@
 # 👋 Bonjour, je suis Alfred Nzigiye
 
-🎯 Futur Analyste-Développeur | Intéressé par le développement, l’analyse fonctionnelle et les bases de données  
-📍 Basé en Belgique  
-💡 Passionné par la résolution de problèmes et la conception de solutions informatiques  
+<p align="center">
+  🎯 Futur Analyste-Développeur • 💻 Dev (C# / Java) • 🧠 Analyse métier • 🗃️ Data  
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alfred-nzigiye/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Analyste--Développeur-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-En%20formation-orange?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🚀 À propos de moi
 
-En reconversion vers l’informatique, je me prépare activement à devenir **analyste-développeur**, en développant des compétences à la fois techniques et analytiques.
+💡 En reconversion vers l’informatique, je me forme activement pour devenir **analyste-développeur**.
 
 ✔️ Approche orientée résolution de problèmes  
-✔️ Intérêt pour la compréhension des besoins métiers  
+✔️ Intérêt pour les besoins métier et leur traduction en solutions techniques  
 ✔️ Apprentissage par des projets concrets  
 
 ---
 
-## 🧠 Parcours d’apprentissage
+## 🔗 Projet central : de l’analyse à l’implémentation
 
-- Programmation : C#, Java (bases)
-- Programmation orientée objet (POO)
-- Analyse fonctionnelle & logique métier
-- Bases de données (SQL)
-- Algorithmes et structuration de la pensée
-- Git & GitHub  
-
----
-
-## 🔗 Projet central : De l’analyse à l’implémentation
-
-Je développe une approche complète du métier d’analyste-développeur à travers un projet en deux volets :
+Je développe un projet complet en 2 dimensions :
 
 ### 🧠 Analyse métier (Business Analyst)
-📁 🔗 [PulsePath – BA Case Study](https://github.com/alfred000/PulsePath-Engine-BA-Case-Study) 
+📁 🔗 [PulsePath – BA Case Study](https://github.com/alfred000/PulsePath-Engine-BA-Case-Study)
+
 - Identification des besoins utilisateurs  
-- Modélisation des fonctionnalités  
+- Rédaction de user stories  
 - Structuration des exigences  
-
-### 💻 Implémentation technique
-📁 Smart Nutrition Tracker  
-- Développement de la logique applicative  
-- Gestion des données utilisateurs  
-- Conception de la base de données  
-
-🎯 Objectif : relier la compréhension métier à la réalisation technique
+- Modélisation fonctionnelle  
 
 ---
 
-## 🛠️ Compétences
+### 💻 Implémentation technique (en cours)
+📁 Smart Nutrition Tracker
 
-- Langages : C#, Java, JavaScript, TypeScript  
-- Bases de données : SQL 
-- Concepts :
-  - POO  
-  - Algorithmes  
-  - Analyse des besoins  
-  - Modélisation  
+- Développement de la logique métier  
+- Conception de base de données  
+- Structuration d’une application complète  
+
+🎯 Objectif : simuler un cycle réel  
+**Analyse → Conception → Développement**
+
+---
+
+## 🧠 Compétences en développement
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,js,ts,dotnet" />
+</p>
+
+- C#, Java (bases solides en progression)  
+- JavaScript / TypeScript  
+- Programmation orientée objet (POO)  
+- Algorithmes & logique  
+
+---
+
+## 🗃️ Bases de données & analyse
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- SQL (en apprentissage)  
+- Modélisation de données  
+- Analyse fonctionnelle  
+- Compréhension des besoins métier  
+
+---
+
+## 🛠️ Outils
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alfred000&show_icons=true&theme=default" />
+</p>
 
 ---
 
@@ -68,17 +101,17 @@ Je vise un poste de :
 - Business Analyst / Functional Analyst (junior)  
 - Database Administrator (junior)  
 
-Je recherche :
-- Stage (à partir de janvier 2027)  
-- Opportunité junior  
-- Expérience concrète en entreprise  
+📅 Disponible pour un stage à partir de janvier 2027  
 
 ---
 
 ## 📫 Me contacter
 
-- 💼 LinkedIn : https://www.linkedin.com/in/alfred-nzigiye/  
-- 📩 Contact via LinkedIn  
+<p align="center">
+  <a href="https://www.linkedin.com/in/alfred-nzigiye/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alfred%20Nzigiye-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
@@ -88,4 +121,4 @@ Je recherche :
 
 ---
 
-⭐ N'hésitez pas à suivre mon évolution et mes projets !
+⭐ N'hésitez pas à suivre mon évolution et explorer mes projets !
