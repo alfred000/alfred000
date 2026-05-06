@@ -29,7 +29,7 @@
 Je développe un projet complet en 2 dimensions :
 
 ### 🧠 Analyse métier (Business Analyst)
-📁 🔗 [PulsePath – BA Case Study](https://github.com/alfred000/PulsePath-Engine-BA-Case-Study)
+📁 🔗 [PulsePath Engine – BA Case Study](https://github.com/alfred000/PulsePath-Engine-BA-Case-Study)
 
 - Identification des besoins utilisateurs  
 - Rédaction de user stories  
@@ -39,7 +39,8 @@ Je développe un projet complet en 2 dimensions :
 ---
 
 ### 💻 Implémentation technique (en cours)
-📁 Smart Nutrition Tracker
+📁 🔗 [PulsePath Engine – Node JS ](https://github.com/alfred000/PulsePath-Engine-NodeJS)
+📁 🔗 [PulsePath Engine – .NET ](https://github.com/alfred000/PulsePath-Engine-DotNet)
 
 - Développement de la logique métier  
 - Conception de base de données  
