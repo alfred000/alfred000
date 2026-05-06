@@ -27,21 +27,23 @@ En reconversion vers l’informatique, je me prépare activement à devenir **an
 
 ---
 
-## 💻 Projets
+## 🔗 Projet central : De l’analyse à l’implémentation
 
-### 📊 Smart Nutrition Tracker (en cours)
-Application inspirée de MyFitnessPal permettant de :
+Je développe une approche complète du métier d’analyste-développeur à travers un projet en deux volets :
 
-- Suivre les repas et apports nutritionnels  
-- Gérer des données utilisateur  
-- Analyser les habitudes alimentaires  
+### 🧠 Analyse métier (Business Analyst)
+📁 PulsePath – BA Case Study  
+- Identification des besoins utilisateurs  
+- Modélisation des fonctionnalités  
+- Structuration des exigences  
 
-🔧 Objectifs techniques :
-- Concevoir une base de données  
-- Développer une logique métier  
-- Créer une application structurée  
+### 💻 Implémentation technique
+📁 Smart Nutrition Tracker  
+- Développement de la logique applicative  
+- Gestion des données utilisateurs  
+- Conception de la base de données  
 
-🎯 Objectif : simuler un projet réel combinant développement + analyse
+🎯 Objectif : relier la compréhension métier à la réalisation technique
 
 ---
 
