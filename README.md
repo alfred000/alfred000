@@ -38,7 +38,7 @@ Je développe un projet complet en 2 dimensions :
 
 ---
 
-### 💻 Implémentation Technique Associées (en cours)
+### 💻 Implémentation Technique Associées 
 Ce dossier de spécifications a été entièrement implémenté et testé. Découvrez le code source :
 - 📁 🔗 [Version API REST .NET & C#](https://github.com/alfred000/PulsePath-Engine-DotNet) (Persistance SQLite & xUnit)
 - 📁 🔗 [Version API REST Node.js & JavaScript](https://github.com/alfred000/PulsePath-Engine-NodeJS) (Persistance SQLite3 & Jest)
