@@ -44,13 +44,6 @@ Ce dossier de spécifications a été entièrement implémenté et testé. Déco
 - 📁 🔗 [Version API REST Node.js & JavaScript](https://github.com/alfred000/PulsePath-Engine-NodeJS) (Persistance SQLite3 & Jest)
 - 📁 🔗 [Version Interface Web Angular](https://github.com/alfred000/PulsePath-Web-Angular) (Dashboard Utilisateur Dynamique)
 
-- Développement de la logique métier  
-- Conception de base de données  
-- Structuration d’une application complète  
-
-🎯 Objectif : simuler un cycle réel  
-**Analyse → Conception → Développement**
-
 ---
 
 ## 🧠 Compétences en développement
