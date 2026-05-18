@@ -38,9 +38,11 @@ Je développe un projet complet en 2 dimensions :
 
 ---
 
-### 💻 Implémentation technique (en cours)
-📁 🔗 [PulsePath Engine – Node JS ](https://github.com/alfred000/PulsePath-Engine-NodeJS)
-📁 🔗 [PulsePath Engine – .NET ](https://github.com/alfred000/PulsePath-Engine-DotNet)
+### 💻 Implémentation Technique Associées (en cours)
+Ce dossier de spécifications a été entièrement implémenté et testé. Découvrez le code source :
+📁 🔗 [Version API REST .NET & C#](https://github.com/alfred000/PulsePath-Engine-DotNet) (Persistance SQLite & xUnit)
+📁 🔗 [Version API REST Node.js & JavaScript](https://github.com/alfred000/PulsePath-Engine-NodeJS) (Persistance SQLite3 & Jest)
+📁 🔗 [Version Interface Web Angular](https://github.com/alfred000/PulsePath-Web-Angular) (Dashboard Utilisateur Dynamique)
 
 - Développement de la logique métier  
 - Conception de base de données  
