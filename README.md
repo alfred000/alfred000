@@ -16,7 +16,7 @@
 
 ## 🚀 À propos de moi
 
-💡 En reconversion vers l’informatique, je me forme activement pour devenir **analyste-développeur**.
+💡 En reconversion, je me forme activement pour devenir **analyste-développeur**.
 
 ✔️ Approche orientée résolution de problèmes  
 ✔️ Intérêt pour les besoins métier et leur traduction en solutions techniques  
