@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Alfred Nzigiye
 
 <p align="center">
-  🎯 Futur Analyste-Développeur • 💻 Dev (C# / Java) • 🧠 Analyse métier • 🗃️ Data  
+  🎯 Analyste-Développeur • 💻 Dev (C# / Java) • 🧠 Analyse métier • 🗃️ Data  
 </p>
 
 <p align="center">
