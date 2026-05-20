@@ -94,8 +94,8 @@ Je vise un poste de :
 
 - Analyste-développeur  
 - Développeur (C# / Java)  
-- Business Analyst / Functional Analyst (junior)  
-- Database Administrator (junior)  
+- Business Analyst / Functional Analyst  
+- Database Administrator   
 
 📅 Disponible pour un stage à partir de janvier 2027  
 
